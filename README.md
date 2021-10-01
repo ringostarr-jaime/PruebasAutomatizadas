@@ -1,6 +1,16 @@
 # PruebasAutomatizadas
-Pruebas automatizadas a una pagina web utilizando Selenium
-
+Pruebas automatizadas a una pagina web utilizando Selenium segun un guion
+Scenario: add clothes</br>
+    	Given the user is in the index page</br>
+    	Then I want to add short clothes</br>
+	Then continue shop     </br>
+	And down the page</br>
+	Then add two different summer dress</br>
+	And click a chiffon dress, click in more</br>
+	Then see the dress</br>
+	And add to the car</br>
+	Then proceed to checkout</br>
+	And move to the total</br>	
 ![image](https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/secuencia.gif)
 
 -Utilizando eclipse
@@ -21,17 +31,7 @@ Feature: Add clothes to the car and check
 to the car for later going to the
   checkout
 </br>
-  Scenario: add clothes</br>
-    	Given the user is in the index page</br>
-    	Then I want to add short clothes</br>
-	Then continue shop     </br>
-	And down the page</br>
-	Then add two different summer dress</br>
-	And click a chiffon dress, click in more</br>
-	Then see the dress</br>
-	And add to the car</br>
-	Then proceed to checkout</br>
-	And move to the total</br>
+  
 
 
 <img src="https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/1.JPG" width="650" >
