@@ -1,17 +1,37 @@
 # PruebasAutomatizadas
 Pruebas automatizadas a una pagina web utilizando Selenium
 
-![image](https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/ezgif.com-gif-maker.gif)
+![image](https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/secuencia.gif)
 
 -Utilizando eclipse
+</br>
 -selenium java 3.141.59
+</br>
 -TestNG 7.0.0
+</br>
 -Cucumber JVM: Java
 	info.cukes » cucumber-java 1.2.5
+	</br>
 -Cucumber JVM: TestNG
 	info.cukes » cucumber-testng 1.2.5
+</br>
+Click en el Feature y una vez dentro RUN
 
-	Click en el Feature y una vez dentro RUN
+Feature: Add clothes to the car and check
+to the car for later going to the
+  checkout
+</br>
+  Scenario: add clothes</br>
+    	Given the user is in the index page</br>
+    	Then I want to add short clothes</br>
+	Then continue shop     </br>
+	And down the page</br>
+	Then add two different summer dress</br>
+	And click a chiffon dress, click in more</br>
+	Then see the dress</br>
+	And add to the car</br>
+	Then proceed to checkout</br>
+	And move to the total</br>
 
 
 <img src="https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/1.JPG" width="650" >
