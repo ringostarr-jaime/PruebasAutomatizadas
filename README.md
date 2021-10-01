@@ -33,7 +33,8 @@ to the car for later going to the
 </br>
   
 
-
+<img src="https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/16.JPG" width="650" >
+</br>
 <img src="https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/1.JPG" width="650" >
 </br>
 <img src="https://github.com/ringostarr-jaime/PruebasAutomatizadas/blob/main/2.JPG" width="650" >
