@@ -1,5 +1,5 @@
 # PruebasAutomatizadas
-Pruebas automatizadas a una pagina web utilizando Selenium segun un guion
+Pruebas automatizadas a una pagina web utilizando Selenium segun un guion realizado con Gherkin
 Scenario: add clothes</br>
     	Given the user is in the index page</br>
     	Then I want to add short clothes</br>
